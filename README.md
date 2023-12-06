@@ -11,6 +11,11 @@ User profiles are effectively managed through the server-side manager or by indi
 
 The project's setup is designed to be simple and user-friendly. Utilizing Node modules, the backend can be easily run on any machine. Users can start creating, reviewing, and editing posts according to their preferences. The combination of Google OAuth for authentication and MongoDB Atlas for data storage results in a powerful and scalable solution for managing user profiles and posts in a secure environment.
 
+
+
+
+Functioning of the website is done via reading the file through node.js 👇 
+
 ![1](https://github.com/mitthhuu3110/NodeJs-BackendChallenge/assets/103479865/e0b9de6f-8bc8-48b4-9a46-559b75648774)
 
 
@@ -21,6 +26,9 @@ The project's setup is designed to be simple and user-friendly. Utilizing Node m
 
 
 ![4](https://github.com/mitthhuu3110/NodeJs-BackendChallenge/assets/103479865/f0d92fb3-7f38-4772-b7fa-d23e92a44c75)
+
+
+The stuff going on behind the scenes is mentioned here below 👇
 
 
 ![5](https://github.com/mitthhuu3110/NodeJs-BackendChallenge/assets/103479865/11d90d2a-f6f3-4c6a-9127-b92116dda8f1)
