@@ -1,4 +1,15 @@
-README FILE 
+Readme File. 
+
+
+NODEJS - BACKEND CHALLENGE - HIREQUOTIENT 
+
+In this project, a robust and secure login system has been implemented, leveraging Google OAuth via Google Cloud Console for authentication. This ensures a high level of security by utilizing Google's Gmail version of authentication. User information, including names and Google IDs, is securely stored in MongoDB Atlas, providing a reliable and scalable database solution.
+
+The backend supports CRUD (Create, Read, Update, Delete) operations, allowing users to seamlessly create, read, update, and delete posts within a static webpage. The project is hosted locally on localhost:5000, making it easily accessible during development.
+
+User profiles are effectively managed through the server-side manager or by individuals with authorized access to MongoDB Atlas. This allows for efficient handling of user data, ensuring privacy and security.
+
+The project's setup is designed to be simple and user-friendly. Utilizing Node modules, the backend can be easily run on any machine. Users can start creating, reviewing, and editing posts according to their preferences. The combination of Google OAuth for authentication and MongoDB Atlas for data storage results in a powerful and scalable solution for managing user profiles and posts in a secure environment.
 
 ![1](https://github.com/mitthhuu3110/NodeJs-BackendChallenge/assets/103479865/e0b9de6f-8bc8-48b4-9a46-559b75648774)
 
